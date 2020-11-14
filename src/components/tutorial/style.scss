@@ -1,0 +1,25 @@
+.tutorial-container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding-bottom: 50px;
+  .paid-free {
+    padding: 20px 10px 10px 10px;
+    display: flex;
+    h6 {
+      flex: 1;
+    }
+  }
+  .image-row-1 {
+    padding: 20px 10px 10px 10px;
+    .image-large {
+      height: 300px;
+      width: 100%;
+      border-radius: 10px;
+    }
+  }
+}
+.tutorial-inner {
+  padding: 20px 10px 10px 10px;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,20 @@
+.container-side {
+  height: 100%;
+}
+.inner-sidenav {
+  padding: 36px 0px 10px 0px;
+  height: 90vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 100%;
+  h5 {
+    padding: 18px 50px;
+    color: grey;
+    margin: 0px;
+  }
+  .background-color {
+    background-color: #1969df;
+    color: #ffffff;
+  }
+}

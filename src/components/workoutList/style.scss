@@ -1,0 +1,31 @@
+.msg-main-workout-list {
+  padding: 40px 10px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 100%;
+  .msg-contant {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px 20px 20px 20px;
+    box-shadow: 1px 1px 5px #c1c1c1;
+    p {
+      margin-bottom: 0;
+      font-size: 18px;
+    }
+    .img {
+      height: 150px;
+      border-radius: 10px;
+      width: 200px;
+    }
+  }
+  .add-new-list {
+    padding: 6px 20px;
+    background-color: #226ddc;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    outline: none !important;
+    font-weight: 700;
+  }
+}

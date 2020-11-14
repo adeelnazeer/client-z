@@ -1,0 +1,177 @@
+.main-container-login {
+  background-color: #4b5f5c;
+  .inner-container {
+    // border: 2px solid red;
+    padding-top: 115px;
+    // max-width: 1360px;
+    padding-bottom: 30px;
+    .content {
+      //   background-color: #f2f7fc;
+      .content-inner {
+        margin-left: 30px;
+        padding: 20px;
+      }
+      .content-one {
+        background-color: #f2f7fc;
+       // text-align: center;
+        border-radius: 25px;
+        // padding: 90px 50px 50px 50px;
+        // flex: 0 0 44.666667%;
+        // max-width: 44.666667%;
+        .image-login {
+          height: 140px;
+        }
+        .heading {
+          font-weight: bolder;
+        }
+        // .heading-div {
+        //   margin-top: 25px;
+        // }
+        // .sign-up-button {
+        //   margin-top: 60px;
+        //   button {
+        //     width: 100%;
+        //     background-color: #226ddc;
+        //     border: none;
+        //     padding: 12px;
+        //     border-radius: 5px;
+        //   }
+        // }
+        // .login-button {
+        //   margin-top: 25px;
+        //   button {
+        //     width: 100%;
+        //     background-color: #dee2e7;
+        //     border: none;
+        //     padding: 12px;
+        //     border-radius: 5px;
+        //   }
+        // }
+        .paragraph {
+          margin-top: 30px;
+        }
+        .hr-line {
+          width: 150px;
+        }
+        .facebook-icon {
+          height: 50px;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
+// sign up
+
+.content-one-sign-up {
+  background-color: #f2f7fc;
+  // text-align: center;
+  border-radius: 10px;
+  padding: 0 !important;
+  // padding: 90px 50px 50px 50px;
+  // flex: 0 0 44.666667%;
+  // max-width: 44.666667%;
+
+  .top-color {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 12px;
+    display: flex;
+    .one {
+      background-color: #216cdc;
+      height: 12px;
+      flex: 1;
+      border-top-left-radius: 10px;
+    }
+    .two {
+      flex: 1;
+      height: 12px;
+      border-top-right-radius: 10px;
+      background-color: #d8e5f9;
+    }
+    .test {
+      flex: 1;
+      height: 12px;
+      border-top-right-radius: 10px;
+      background-color: #216cdc;
+    }
+  }
+  .image-login {
+    height: 140px;
+  }
+  .heading {
+    font-weight: bolder;
+  }
+  .heading-div {
+    margin-top: 25px;
+  }
+  // .sign-up-button {
+  //   margin-top: 60px;
+  //   button {
+  //     width: 100%;
+  //     background-color: #226ddc;
+  //     border: none;
+  //     padding: 12px;
+  //     border-radius: 5px;
+  //   }
+  // }
+  // .login-button {
+  //   margin-top: 25px;
+  //   button {
+  //     width: 100%;
+  //     background-color: #dee2e7;
+  //     border: none;
+  //     padding: 12px;
+  //     border-radius: 5px;
+  //   }
+  // }
+  .paragraph {
+    margin-top: 30px;
+  }
+  .hr-line {
+    width: 150px;
+  }
+  .facebook-icon {
+    height: 50px;
+    border-radius: 5px;
+  }
+}
+.content-data {
+  padding: 90px 50px 50px 50px;
+  .heading-div {
+    text-align: center;
+  }
+  // input {
+  //   width: 100%;
+  //   padding: 15px;
+  //   border-radius: 5px;
+  //   border: 1px solid #d2d8de;
+  //   outline: none;
+  // }
+  // .label {
+  //   font-weight: 600;
+  // }
+  // .user-name {
+  //   margin-top: 95px;
+  // }
+  // .email {
+  //   margin-top: 20px;
+  // }
+  // .next-button {
+  //   margin-top: 20px;
+  //   button {
+  //     width: 100%;
+  //     background-color: #226ddc;
+  //     border: none;
+  //     padding: 15px;
+  //     border-radius: 5px;
+  //     color: #ffffff;
+  //     font-weight: 600;
+  //     outline: none;
+  //   }
+  // }
+  // .skip-div {
+  //   margin-top: 20px;
+  //   text-align: center;
+  // }
+}

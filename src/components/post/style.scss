@@ -1,0 +1,100 @@
+.post-container {
+  border-radius: 5px;
+  .post-section-one {
+    padding: 20px 10px 10px 10px;
+    background-color: #f5f9fc;
+    border-bottom: 1px solid #eaeef1;
+  }
+  .post-row-two {
+    padding: 20px;
+    background-color: #ffffff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    .img-height {
+      height: 50px;
+    }
+    textarea {
+      resize: none;
+      border: none;
+      width: 100%;
+      outline: none;
+    }
+    .btn-div {
+      button {
+        background-color: #eaf3fc;
+        color: #66696d;
+        outline: none;
+        border: none;
+        border-radius: 5px;
+        padding: 6px 25px;
+        font-weight: 600;
+      }
+    }
+  }
+  .section-two {
+    border-radius: 5px;
+    border-radius: 5px;
+    .section-two-row-one {
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      background-color: #ffffff;
+      display: flex;
+      justify-content: space-between;
+      border-top-left-radius: 5px;
+      padding: 20px 10px;
+      .profile-img {
+        height: 50px;
+        border-radius: 50%;
+        width: 50px;
+      }
+      .btn-follow {
+        button {
+          background-color: #eaf3fc;
+          color: #66696d;
+          outline: none;
+          border: 1px solid #dce9f6;
+          border-radius: 5px;
+          padding: 6px 25px;
+          font-weight: 600;
+        }
+      }
+      h6 {
+        margin-bottom: 0px;
+      }
+    }
+  }
+  .para {
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  .footer-post {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    .comments {
+      border-right: 1px solid #e2e6e9;
+      border-left: 1px solid #e2e6e9;
+      .d-flex {
+        justify-content: center;
+      }
+    }
+    .share {
+      .d-flex {
+        justify-content: center;
+      }
+    }
+    p {
+      margin-bottom: 0px;
+      color: #7c7f82;
+    }
+    .a-tag {
+      font-size: 14px;
+      font-weight: 700;
+      opacity: 70%;
+    }
+  }
+}

@@ -1,0 +1,26 @@
+.contact-us-container {
+  padding: 40px 50px 130px 50px;
+  border-radius: 5px;
+  background-color: #f2f7fc;
+  .contact-use-inner {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 60px 40px 130px 40px;
+
+    input {
+      width: 100%;
+      padding: 15px;
+      background-color: #f2f7fc;
+      border: 1px solid #dce9f6;
+      outline: none;
+    }
+    textarea {
+      width: 100%;
+      padding: 15px;
+      background-color: #f2f7fc;
+      border: 1px solid #dce9f6;
+      resize: none;
+      outline: none;
+    }
+  }
+}

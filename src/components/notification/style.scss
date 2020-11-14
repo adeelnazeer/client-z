@@ -1,0 +1,17 @@
+.notification-main {
+  border-radius: 5px;
+  background-color: hsl(0, 0%, 100%);
+  padding: 20px 10px;
+  height: 100%;
+  .img-right {
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+  }
+  .img-left {
+    height: 40px;
+  }
+  p {
+    margin-bottom: 0px;
+  }
+}

@@ -1,0 +1,27 @@
+.session-main {
+  background-color: #f2f7fc;
+  border-radius: 5px;
+  padding: 50px 15px;
+  height: 100%;
+  .content-session {
+    padding: 10px 30px 30px 30px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #c1c1c1;
+    .date {
+      text-align: end;
+    }
+  }
+  .caledner-main {
+    align-items: center;
+  }
+  .react-datepicker-wrapper {
+    input {
+      padding: 12px 50px 12px 12px;
+      background-color: #fcfeff;
+      border: 1px solid #dce9f6;
+      border-radius: 5px;
+      font-size: 12px;
+    }
+  }
+}

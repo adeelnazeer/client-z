@@ -1,0 +1,34 @@
+.excercise-container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 30px 10px 10px 10px;
+  height: 100%;
+  .vedio-excercise {
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 1px 1px 5px #c1c1c1;
+    margin-top: 20px;
+    .image-excer {
+      height: 130px;
+      border-radius: 10px;
+    }
+    .txt-excercise {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+    }
+    .paid-button {
+      flex: 1;
+      text-align: end;
+      button {
+        color: #1a6adf;
+        background-color: #e3f1ff;
+        border-radius: 5px;
+        font-weight: bold;
+        border: none;
+        outline: none;
+        padding: 4px 18px;
+      }
+    }
+  }
+}
