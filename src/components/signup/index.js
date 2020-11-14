@@ -1,9 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
 import React from "react";
 import "../login/style.scss";
-import Image from "../../assets/images/157781817581281082-1-.png";
 import { Link } from "react-router-dom";
-import Facebook from "../../assets/images/facebook.png";
 export default () => {
   return (
     <div className="container-fluid main-container-login">

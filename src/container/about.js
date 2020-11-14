@@ -6,7 +6,7 @@ import AboutUs from "../components/aboutUs/index";
 import RightSideNav from "../components/sideNavRight/index";
 export default () => {
   return (
-    <div id="#slide" className="container-backkground ">
+    <div className="container-backkground ">
       <Header />
       <div className="row contaner-row">
         <div className="col-3 side-nav-left mrg-top-5">
