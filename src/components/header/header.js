@@ -113,8 +113,8 @@ export default () => {
               <img
                 style={{
                   background: "white",
-                  width: "80px",
-                  margin: "8px",
+                  width: "150px",
+                  height: "40px",
                 }}
                 className="lower"
                 src={Logo}
@@ -129,10 +129,14 @@ export default () => {
             <div className="inner-div-">
               <div className="d-flex jst-cont-between">
                 <Link to="/gyms">
-                  <p>Gyms Near Me</p>
+                  <div>
+                    <p>Gyms Near Me</p>
+                  </div>
                 </Link>
                 <Link to="/tutorial">
-                  <p>Tutorials</p>
+                  <div>
+                    <p>Tutorials</p>
+                  </div>
                 </Link>
               </div>
               <div className="d-flex jst-cont-between">

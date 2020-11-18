@@ -27,16 +27,18 @@
     display: flex;
     flex-direction: column;
     padding: 5px;
-    top: 88px;
+    top: 90px;
     width: 100%;
     left: 0px;
-    border: 1px solid gray;
-    box-shadow: 1px 1px 5px grey;
+    // border: 1px solid gray;
+    // box-shadow: 1px 1px 5px grey;
     border-radius: 5px;
     z-index: 600;
     background-color: #ffffff;
-    p {
+    a {
       flex: 1;
+    }
+    p {
       color: gray;
       padding: 12px;
       font-size: 18px;
