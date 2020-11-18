@@ -24,7 +24,7 @@ export default () => {
           </div>
         </div>
         <hr></hr>
-        <div className="btn-div d-flex">
+        <div className="btn-div-add-files d-flex">
           <div>
             <button>Add file</button>
           </div>

@@ -54,7 +54,7 @@ export default () => {
           professionals life demands...
         </p>
         <h6 className="fnt-w-700 mrg-top-50"> Gallery</h6>
-        <div className="d-flex">
+        <div className="d-flex images-profile">
           <div>
             <img src={Image} alt="" />
           </div>

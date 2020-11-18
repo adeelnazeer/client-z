@@ -12,9 +12,9 @@ export default () => {
         <div className="col-3 side-nav-left mrg-top-5">
           <SideNav />
         </div>
-        <div className="col-6">
-            <div className="inner-column">
-          <Gyms />
+        <div className="col-6 center-container">
+          <div className="inner-column">
+            <Gyms />
           </div>
         </div>
         <div className="col-3 right-sidebar">

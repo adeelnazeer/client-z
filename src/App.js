@@ -1,6 +1,7 @@
 // import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../src/assets/css/style.scss";
+import "../src/assets/css/responsive.scss";
 import { Route, BrowserRouter } from "react-router-dom";
 import Login from "./components/login/index";
 import SignUp from "./components/signup/index";

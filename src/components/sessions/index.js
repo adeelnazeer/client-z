@@ -9,7 +9,7 @@ export default () => {
   return (
     <div className="session-main">
       <h5 className="fnt-w-700">All Sessions</h5>
-      <div className="d-flex mrg-top-20 caledner-main op-70">
+      <div className="d-flex mrg-top-20 caledner-main ">
         <div>
           <DatePicker
             selected={startDate}

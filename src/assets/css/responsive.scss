@@ -1,0 +1,200 @@
+@import "./loginSignUp.scss";
+@import "./signUpOne.scss";
+@import "./dashboard.scss";
+@import "./tutorial.scss";
+@import "./buildWorkOut.scss";
+@import "./sessions.scss";
+@import "./feedbackAndContactUs.scss";
+@import "./subscription.scss";
+
+@media (max-width: 1366px) and (min-width: 1200px) {
+}
+@media (max-width: 1366px) and (min-width: 1024px) {
+  .container-backkground {
+    background-color: #ffffff;
+    padding: 0px !important;
+    .contaner-row {
+      margin: 0px !important;
+    }
+    .inner-column {
+      margin: 0px !important;
+    }
+  }
+}
+@media (max-width: 1023px) and (min-width: 992px) {
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .container-backkground {
+    background-color: #ffffff;
+    padding: 0px;
+  }
+  .header-main-desktop {
+    display: none;
+  }
+  .show-for-mobile {
+    display: block !important;
+    border-bottom: 1px solid gray;
+    padding: 20px 0px;
+  }
+  .side-nav-left {
+    display: none;
+  }
+  .right-sidebar {
+    display: none;
+  }
+  .center-container {
+    max-width: 100%;
+    flex: 1;
+    padding: 0px;
+    .inner-column {
+      margin: 0px;
+    }
+    .create-post-inner {
+      padding: 20px 20px 20px 20px;
+    }
+  }
+  .contaner-row {
+    margin: 0px;
+    background-color: #ffffff;
+  }
+}
+@media (max-width: 767px) and (min-width: 685px) {
+  .container-backkground {
+    background-color: #ffffff;
+    padding: 0px;
+  }
+  .header-main-desktop {
+    display: none;
+  }
+  .show-for-mobile {
+    display: block !important;
+    border-bottom: 1px solid gray;
+    padding: 20px 0px;
+  }
+  .side-nav-left {
+    display: none;
+  }
+  .right-sidebar {
+    display: none;
+  }
+  .center-container {
+    max-width: 100%;
+    flex: 1;
+    padding: 0px;
+    .inner-column {
+      margin: 0px;
+    }
+    .create-post-inner {
+      padding: 20px 20px 20px 20px;
+    }
+  }
+  .contaner-row {
+    margin: 0px;
+    background-color: #ffffff;
+  }
+}
+@media (max-width: 684px) and (min-width: 568px) {
+  .container-backkground {
+    background-color: #ffffff;
+    padding: 0px;
+  }
+  .header-main-desktop {
+    display: none;
+  }
+  .show-for-mobile {
+    display: block !important;
+    border-bottom: 1px solid gray;
+    padding: 20px 0px;
+  }
+  .side-nav-left {
+    display: none;
+  }
+  .right-sidebar {
+    display: none;
+  }
+  .center-container {
+    max-width: 100%;
+    flex: 1;
+    padding: 0px;
+    .inner-column {
+      margin: 0px;
+    }
+    .create-post-inner {
+      padding: 20px 20px 20px 20px;
+    }
+  }
+  .contaner-row {
+    margin: 0px;
+    background-color: #ffffff;
+  }
+}
+@media (max-width: 567px) and (min-width: 480px) {
+  .container-backkground {
+    background-color: #ffffff;
+    padding: 0px;
+  }
+  .header-main-desktop {
+    display: none;
+  }
+  .show-for-mobile {
+    display: block !important;
+    border-bottom: 1px solid gray;
+    padding: 20px 0px;
+  }
+  .side-nav-left {
+    display: none;
+  }
+  .right-sidebar {
+    display: none;
+  }
+  .center-container {
+    max-width: 100%;
+    flex: 1;
+    padding: 0px;
+    .inner-column {
+      margin: 0px;
+    }
+    .create-post-inner {
+      padding: 20px 20px 20px 20px;
+    }
+  }
+  .contaner-row {
+    margin: 0px;
+    background-color: #ffffff;
+  }
+}
+@media (max-width: 479px) and (min-width: 320px) {
+  .container-backkground {
+    background-color: #ffffff;
+    padding: 0px;
+  }
+  .header-main-desktop {
+    display: none;
+  }
+  .show-for-mobile {
+    display: block !important;
+    border-bottom: 1px solid gray;
+    padding: 20px 0px;
+  }
+  .side-nav-left {
+    display: none;
+  }
+  .right-sidebar {
+    display: none;
+  }
+  .center-container {
+    max-width: 100%;
+    flex: 1;
+    padding: 0px;
+    .inner-column {
+      margin: 0px;
+    }
+    .create-post-inner {
+      padding: 20px 20px 20px 20px;
+    }
+  }
+  .contaner-row {
+    margin: 0px;
+    background-color: #ffffff;
+  }
+}
