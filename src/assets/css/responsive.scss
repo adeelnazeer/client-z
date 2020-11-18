@@ -197,4 +197,10 @@
     margin: 0px;
     background-color: #ffffff;
   }
+  .vedio-excercise {
+    flex-wrap: wrap;
+    .txt-excercise {
+      margin-top: 10px;
+    }
+  }
 }

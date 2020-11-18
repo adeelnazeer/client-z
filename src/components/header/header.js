@@ -115,6 +115,7 @@ export default () => {
                   background: "white",
                   width: "150px",
                   height: "40px",
+                  marginRight: "50px",
                 }}
                 className="lower"
                 src={Logo}
